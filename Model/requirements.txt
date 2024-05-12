@@ -1,0 +1,9 @@
+pandas
+opencv-python==4.6.0.66
+joblib
+matplotlib
+scikit-learn
+torch
+torchvision
+swifter
+flask_cors
